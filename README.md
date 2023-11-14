@@ -1,6 +1,5 @@
-## diabeties
+# Diabeties Prediction
 
-The code provided appears to be focused on building and evaluating machine learning and deep learning models for a diabetes prediction task. The primary objective of the project can be summarized as follows:
 
 ## **Objective:**
 The main goal of this project is to develop predictive models for diabetes based on relevant features. The project involves the following key steps:
